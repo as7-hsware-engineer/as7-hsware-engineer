@@ -1,16 +1,27 @@
-## Hi there 👋
+Markdown
+# cartão-presente 
 
-<!--
-**as7-hsware-engineer/as7-hsware-engineer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Descrição
 
-Here are some ideas to get you started:
+Uma plataforma intuitiva e moderna para gerenciamento de cartões presente, construída com JavaScript e CSS. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Funcionalidades:**
+
+* **Criação de cartões:** Personalize cartões com valores e datas de validade.
+* **Gerenciamento de usuários:** Cadastre e gerencie usuários de forma segura.
+* **Relatórios:** Gere relatórios detalhados sobre o uso dos cartões.
+* **Integrações:** Conecte-se a diversas plataformas de pagamento.
+
+## Tecnologias Utilizadas
+
+* **Frontend:**
+  * JavaScript (ES6+)
+  * React (ou outra biblioteca/framework)
+  * CSS (Sass/Less)
+  * [Outras bibliotecas, como Material UI, Bootstrap, etc.]
+* **Backend:**
+  * Node.js
+  * Express.js (ou outro framework)
+  * MongoDB (ou outro banco de dados)
+
+## Instalação
